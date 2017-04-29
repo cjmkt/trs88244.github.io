@@ -10,8 +10,8 @@
 
 ### Teambition下载点（推荐）
 
-<a href="https://www.teambition.com/project/58d278f86e23f2d91eb5f496/works/58d278f86e23f2d91eb5f497">5.05</a>
-<a href="https://www.teambition.com/project/58d278f86e23f2d91eb5f496/works/58d278f86e23f2d91eb5f497">5.06</a>
+<a href="https://www.teambition.com/project/58d278f86e23f2d91eb5f496/works/58d278f86e23f2d91eb5f497/work/58d27a2c719f8aa9680d44a3">5.05</a>
+<a href="https://www.teambition.com/project/58d278f86e23f2d91eb5f496/works/58d278f86e23f2d91eb5f497/work/58d27a2c719f8aa9680d44a4">5.06</a>
 
 ### MediaFire下载点
 <a href="http://www.mediafire.com/file/le1lcat59dw6x2z/几何画板5.05最强中文版.exe">5.05</a>
