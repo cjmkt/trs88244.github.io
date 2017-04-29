@@ -1,7 +1,5 @@
 # 全网唯一可用几何画板最强中文版
 
-<img src="https://raw.githubusercontent.com/trs88244/trs88244.github.io/master/1.png">
-
 现免费提供几何画板最强中文版5.05和5.06
 
 都是博主本人从迅雷上以几KB每秒的速度一点点下载下来的
