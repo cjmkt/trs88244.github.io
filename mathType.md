@@ -1,0 +1,10 @@
+# MathType6.9简体中文注册版
+
+压缩包内有两个文件
+
+MathType 6.9简体中文版(对象型).exe
+
+MathType 6.9简体中文版(加载&对象型).exe
+
+### 国内下载点（需去除拓展名中.png）
+<a href="http://download.cloud.189.cn/v5/downloadFile.action?downloadRequest=1_908F35B2408DBBCB987FA48172502A38E430F6B78116534F3931FF9302BA3E0F5FC68659FD12C45190CCF20D859D5D2CA7CBD2255BDA8B342CF3B13ACE695A2DE9547DA698BB4875F4CF96F157506EF592801339">5.05</a>
